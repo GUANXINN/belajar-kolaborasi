@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-## Ini Bagian 1
+## Ini Bagian 2
